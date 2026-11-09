@@ -1,89 +1,53 @@
-<img src="./header.svg" alt="Cabeçalho com CSS" width="100%">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,23,34,45&height=100&section=header&text=Marcos%20Gustavo&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
-</p>
-
----
-
-## Quem sou eu?
-
-- Tenho 17 anos e estou cursando o último ano do ensino médio.
-- Formado/Cursando Técnico em Desenvolvimento de Sistemas pelo **SENAI**.
-- Atualmente, estou em busca de oportunidades de **estágio em desenvolvimento WEB** para colocar meus conhecimentos em prática e crescer na área de tecnologia.
-
----
-
-## Linguagens e Tecnologias
-
-<div align="center" class="container-tecnologias">
-    <div class="badge" id="html">
-      <figure>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" /><br>
-        <figcaption>HTML5</figcaption>
-      </figure>
-    </div>
-    <div class="badge" id="css">
-      <figure>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" title="CSS3" /><br>
-        <figcaption>CSS3</figcaption>
-      </figure>
-    </div>
-    <div class="badge" id="javascript">
-      <figure>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" /><br>
-        <figcaption>JavaScript</figcaption>
-      </figure>
-    </div>
-    <div class="badge" id="git">
-      <figure>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" /><br>
-        <figcaption>Git</figcaption>
-      </figure>
-    </div>
-    <div class="badge" id="github">
-      <figure>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="GitHub" /><br>
-        <figcaption>Github</figcaption>
-      </figure>
-    </div>
-  </div>
-
----
-<!--
-## Estatísticas do GitHub
-<img src="[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcode-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)">
 <div align="center">
-  <a href="https://github.com/marcode-dev">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=marcode-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcode-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <h1>Oi, sou o Marcos Gustavo 👋</h1>
+  <p><em>Desenvolvedor Web em formação • Buscando novas oportunidades</em></p>
+</div>
+
+
+## Sobre mim 🚀
+
+- 💻 Tenho 17 anos, estou no último ano do ensino médio e cursando Técnico em Desenvolvimento de Sistemas pelo **SENAI**.
+- 🎯 Atualmente, estou em busca de oportunidades de **estágio em desenvolvimento Web** para colocar meus conhecimentos em prática e crescer na área de tecnologia. Com disponibilidade para iniciar entre **dezembro e janeiro**.
+- 📚 **Foco atual:** Praticando frameworks como React e Vue.js, melhorando minha lógica de programação e ecossistema front-end.
+<div align="center">
+  <a href="https://drive.google.com/uc?export=download&id=1r-EK2tqJW5CPm8wSqyGS9TZN4EYKG47-" target="_blank">
+    <img src="https://img.shields.io/badge/📥_Confira meu currículo-PDF-0077B5?style=for-the-badge" alt="Baixar Currículo" />
   </a>
 </div>
--->
 ---
 
-## Conecte-se comigo
+## Linguagens e Tecnologias 🛠️
+
+<div align="center">
+
+<img style="border-radius:20px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img style="border-radius:20px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img style="border-radius:20px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img style="border-radius:20px;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img style="border-radius:20px;" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img style="border-radius:20px;" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img style="border-radius:20px;" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
+<!-- ---
+
+## Estatísticas do GitHub 📊
+
+<div align="center">
+  <img style="border-radius:20px;" height="180" src="https://github-readme-stats.vercel.app/api?username=marcode-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img style="border-radius:20px;" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcode-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</div> -->
+
+---
+
+## Conecte-se comigo 🤝
 
 <div align="center">
   <a href="https://linkedin.com/in/marcode-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img style="border-radius:20px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:marcosgustavo272009@gmail.com">
+    <img style="border-radius:20px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-
-<!--
-**marcode-dev/marcode-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
