@@ -1,40 +1,4 @@
-<style>
-  *{
-    margin: 0;
-    padding: 0;
-    box-sizing:border-box;  
-  }
-    .container-tecnologias{
-      display: flex;
-      flex-direction: row;
-      gap: 15px;
-      font-family: Arial;
-      width: 100%;
-      justify-content: space-around;
-    }
-    .badge figure img {
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      border: white solid 4px;
-      color: #ffffff;
-      font-weight: bold;
-      transform: scale(1);
-      background-color: white;
-    }
-    figure img {
-      transform: scale(2.5);
-    }
-    #github figure img {
-      background-color: white;
-      border-radius: 50%;
-      padding: 1px;
-    }
-    figcaption {
-      display: block;
-    }
-</style>
+<img src="./header.svg" alt="Cabeçalho com CSS" width="100%">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,23,34,45&height=100&section=header&text=Marcos%20Gustavo&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
@@ -85,16 +49,16 @@
   </div>
 
 ---
-
+<!--
 ## Estatísticas do GitHub
-
+<img src="[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcode-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)">
 <div align="center">
   <a href="https://github.com/marcode-dev">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=marcode-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcode-dev&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
 </div>
-
+-->
 ---
 
 ## Conecte-se comigo
@@ -108,9 +72,6 @@
   </a>
 </div>
 
----
-
-<p align="center"><i>"Transformando linhas de código em soluções para o futuro."</i></p>
 
 <!--
 **marcode-dev/marcode-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
