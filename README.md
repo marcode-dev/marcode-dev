@@ -5,9 +5,9 @@ _Desenvolvedor Web em formação • Buscando novas oportunidades_
 
 
 ## Sobre mim 
-> - Tenho 17 anos, estou no último ano do ensino médio e cursando Técnico em Desenvolvimento de Sistemas pelo <ins>**SENAI**</ins>.
-> - Atualmente, estou em busca de oportunidades de <u>**estágio em desenvolvimento Web**</u> para colocar meus conhecimentos em prática e crescer na área de tecnologia. Com disponibilidade para iniciar entre <ins>**dezembro e janeiro**</ins>.
-> - **Meu foco atual:** Estou praticando frameworks como <ins>React e Vue.js</ins>, melhorando minha lógica de programação e ecossistema front-end, à procura de expandir minhas oportunidades no mercado de trabalho.
+> - Tenho 17 anos, estou no último ano do ensino médio e cursando Técnico em Desenvolvimento de Sistemas pelo **SENAI**.
+> - Atualmente, estou em busca de oportunidades de **estágio em desenvolvimento Web** para colocar meus conhecimentos em prática e crescer na área de tecnologia. Com disponibilidade para iniciar entre **dezembro e janeiro**.
+> - **Meu foco atual:** Estou praticando frameworks como React e Vue.js, melhorando minha lógica de programação e ecossistema front-end, à procura de expandir minhas oportunidades no mercado de trabalho.
 <div align="center"><a href="https://drive.google.com/uc?export=download&id=1U8FzzR55dEvw8Y-YSs0CE73et7l7rjIP" target="_blank"><img src="https://img.shields.io/badge/📥_Confira meu currículo-PDF-0077B5?style=for-the-badge" alt="Baixar Currículo" /></a></div>
 
 ---
