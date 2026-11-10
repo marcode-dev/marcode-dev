@@ -10,7 +10,7 @@
 - 🎯 Atualmente, estou em busca de oportunidades de **estágio em desenvolvimento Web** para colocar meus conhecimentos em prática e crescer na área de tecnologia. Com disponibilidade para iniciar entre **dezembro e janeiro**.
 - 📚 **Foco atual:** Praticando frameworks como React e Vue.js, melhorando minha lógica de programação e ecossistema front-end.
 <div align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1VJTP2mFcjzmMNx7K9ZtcbTtrDzzT2wPd" target="_blank">
+  <a href="https://drive.google.com/uc?export=download&id=1U8FzzR55dEvw8Y-YSs0CE73et7l7rjIP" target="_blank">
     <img src="https://img.shields.io/badge/📥_Confira meu currículo-PDF-0077B5?style=for-the-badge" alt="Baixar Currículo" />
   </a>
 </div>
