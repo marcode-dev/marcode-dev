@@ -1,14 +1,14 @@
 <div align="center">
-  <h1>Oi, sou o Marcos Gustavo 👋</h1>
+  <h1>Oi, eu sou o Marcos 👋🏼</h1>
   <p><em>Desenvolvedor Web em formação • Buscando novas oportunidades</em></p>
 </div>
 
 
-## Sobre mim 🚀
+## Sobre mim
 
-- 💻 Tenho 17 anos, estou no último ano do ensino médio e cursando Técnico em Desenvolvimento de Sistemas pelo **SENAI**.
-- 🎯 Atualmente, estou em busca de oportunidades de **estágio em desenvolvimento Web** para colocar meus conhecimentos em prática e crescer na área de tecnologia. Com disponibilidade para iniciar entre **dezembro e janeiro**.
-- 📚 **Foco atual:** Praticando frameworks como React e Vue.js, melhorando minha lógica de programação e ecossistema front-end.
+- Tenho 17 anos, estou no último ano do ensino médio e cursando Técnico em Desenvolvimento de Sistemas pelo **SENAI**.
+- Atualmente, estou em busca de oportunidades de **estágio em desenvolvimento Web** para colocar meus conhecimentos em prática e crescer na área de tecnologia. Com disponibilidade para iniciar entre **dezembro e janeiro**.
+- **Meu foco atual:** Estou praticando frameworks como React e Vue.js, melhorando minha lógica de programação e ecossistema front-end, em busca de expandir minhas oportunidades no mercado de trabalho.
 <div align="center">
   <a href="https://drive.google.com/uc?export=download&id=1U8FzzR55dEvw8Y-YSs0CE73et7l7rjIP" target="_blank">
     <img src="https://img.shields.io/badge/📥_Confira meu currículo-PDF-0077B5?style=for-the-badge" alt="Baixar Currículo" />
@@ -17,7 +17,7 @@
 
 ---
 
-## Linguagens e Tecnologias 🛠️
+## Linguagens e Tecnologias
 
 <div align="center">
 
@@ -33,7 +33,7 @@
 
 <!-- ---
 
-## Estatísticas do GitHub 📊
+## Estatísticas do GitHub 
 
 <div align="center">
   <img style="border-radius:20px;" height="180" src="https://github-readme-stats.vercel.app/api?username=marcode-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -42,7 +42,7 @@
 
 ---
 
-## Conecte-se comigo 🤝
+## Conecte-se comigo 
 
 <div align="center">
   <a href="https://linkedin.com/in/marcode-dev" target="_blank">
