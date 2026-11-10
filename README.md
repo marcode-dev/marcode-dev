@@ -14,7 +14,9 @@
     <img src="https://img.shields.io/badge/📥_Confira meu currículo-PDF-0077B5?style=for-the-badge" alt="Baixar Currículo" />
   </a>
 </div>
+
 ---
+
 ## Linguagens e Tecnologias 🛠️
 
 <div align="center">
